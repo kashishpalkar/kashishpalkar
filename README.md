@@ -24,7 +24,6 @@ A Flask-based web application featuring:
 
 ### 🌱 Currently Learning
 - Python and Flask development
-- Git and GitHub
 - Building practical software projects
 
 ### 📫 Connect with Me
